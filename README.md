@@ -25,6 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [solution here](https://github.com/NazarPentsarskyi/QR-code-component)
+- Live Site URL: [live site here](https://codepen.io/_dcool_/pen/PoQreqy)
 
 ## My process
 
@@ -46,6 +47,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - GitHub - [Nazar Pentsarskyi](https://github.com/NazarPentsarskyi)
 - Frontend Mentor - [NazarPentsarskyi](https://www.frontendmentor.io/profile/NazarPentsarskyi)
+- CodePen - [Nazar Pentsarskyi](https://codepen.io/_dcool_)
 
 ## Acknowledgments
 
