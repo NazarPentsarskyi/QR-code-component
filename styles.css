@@ -35,18 +35,18 @@ img {
   margin: 0 35px;
 }
 
-.footer {
+.attribution {
   font-size: 12px;
   text-align: center;
   margin-top: 20px;
 }
 
-.footer a { 
+.attribution a { 
   color: hsl(228, 45%, 44%); 
 }
 
 @media (max-width: 375px) {
-  .footer{
+  .attribution{
     margin-top: 20px;
     margin-left: 30px;
   }
